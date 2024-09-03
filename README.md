@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Pursuing B.E. (CSE) at IET AGRA<br>📙 I'm Currently Learning DSA in JAVA<br>📧Reach me at workwithvivek@hotmail.com<br>🤩Interested in Programming, Cybersecurity, Tech & AI
+👨‍🎓 Pursuing B.E. (CSE) at IET AGRA<br>📙 I'm Currently Learning DSA in C++<br>📧Reach me at workwithvivek@hotmail.com<br>🤩Interested in Programming, Cybersecurity, Tech & AI
 
 
 ## 🌐 Socials:
