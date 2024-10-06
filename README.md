@@ -2,7 +2,7 @@
 
 
 # ⭐ Bio:
-👨‍🎓 Pursuing B.E. (CSE) at IET AGRA<br>📙 I'm Currently Learning DSA in C++<br>📧Reach me at workwithvivek@hotmail.com<br>🤩Interested in Programming, Cybersecurity, Tech & AI
+👨‍🎓 Pursuing B.E. (CSE) at IET AGRA<br>📙 I'm Currently Learning DSA in C++<br>📧Reach me at vvksrmacse@gmail.com<br>🤩Interested in Programming, UI-UX, Cybersecurity, Tech & AI
 
 # ⭐ About
 Pursuing my second year of Bachelor of Engineering in Computer Science & Engineering. Driven by curiosity and a passion for exploring new technologies, I am committed to making a meaningful impact in the tech world. Always eager to learn, collaborate, and turn innovative ideas into practical solutions. Let’s connect and grow together!
